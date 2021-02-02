@@ -1,0 +1,1048 @@
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_859AA1A8-7D94-4464-BBCD-8999483DA8A4.jpeg 1382,1634,1788,1882,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_862B4B78-A791-4C1F-A93F-AFB5947B1053.jpeg 834,1124,1137,1411,0 1192,756,1459,1098,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_8955A189-59C3-467D-84B2-E867C9BE4714.jpeg 1156,1143,1621,1534,0 1182,1840,1605,2176,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_89FC4F52-0EBC-4BD0-9B44-952E8E8ED5AF.jpeg 979,1137,1543,1395,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_8D4733D3-65B2-4E29-85AF-BA97592FCC55.jpeg 1708,1634,1898,1885,0 1718,1869,1908,2021,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_925844A9-337E-469E-86AB-75CFBF91842F.jpeg 1018,1521,1598,1792,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_94F4A5C6-E6C7-4284-B203-D9A9EECC32C8.jpeg 727,1656,1169,2040,0 763,2005,1192,2282,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_95A817E8-2ACE-4288-8AA7-F399076EF29B.jpeg 840,1056,1253,1414,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_981ABA16-729F-44A1-9E05-360E823328A2.jpeg 1282,1630,1714,1898,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_9BBEEDB1-92F0-4E03-86A5-366649074561.jpeg 1056,1479,1653,1701,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_A19F962E-4123-4185-83AC-E6CB808CCCB1.jpeg 1308,1456,1798,1750,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_A627EDE8-B980-471E-90C3-1A0BB7D57FA1.jpeg 1314,1166,1530,1430,0 1318,1563,1553,1830,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_A6DBD0BF-41BC-4335-A0CF-D61FB282462F.jpeg 1034,866,1334,1134,0 1272,685,1514,895,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_B1D7005D-5770-4629-9EF5-7972E25A7C18.jpeg 630,992,1040,1427,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_B5A4C60B-F99C-4428-A9FE-C1EB3AEDA0CA.jpeg 766,1408,1076,1688,0 1085,1027,1366,1330,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_B7377434-5882-4461-9F68-CB75442BA43C.jpeg 1663,1247,1947,1550,0 1659,1711,1885,1966,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_C353E24D-EDB7-40D5-A0F9-CABC45F61CB2.jpeg 1108,1543,1576,1801,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_C67F54E1-4ED1-4B85-A7CB-8533A4BDBB74.jpeg 830,888,1201,1327,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_CC05C2CB-0B2C-47A9-A817-21A7E49AACAC.jpeg 1669,1359,1872,1621,0 1698,1676,1908,1905,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_CFE9B1C2-7968-45BE-9DF1-7D644DE91460.jpeg 692,1747,1108,2182,0 711,2434,1130,2750,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_D3F2121B-55BA-443B-B183-3ADA8F3053B5.jpeg 982,1169,1530,1376,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_D8892CEC-3BC1-4645-BECF-754E824FC8A0.jpeg 869,1556,1343,1917,0 908,1866,1379,2192,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_D89AB1C4-6A0B-4C76-8123-F1F5DDBCAC60.jpeg 666,1143,1037,1505,0 663,1476,1037,1737,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_E0893908-BF52-4A96-968C-71DD4C8C08D8.jpeg 1543,1050,1753,1317,0 1582,1343,1808,1605,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_E107878C-A880-4397-AFA3-9577ABCAA2D1.jpeg 721,985,1043,1253,0 1050,853,1301,1072,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_E2C03F96-FFD8-4F25-81BA-77C3A3D5B506.jpeg 518,1376,992,1772,0 579,1679,998,1908,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_EE3AAF32-A7C3-4CB8-9788-F4B2D90124FF.jpeg 634,924,1011,1334,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_F184FBF8-374B-4D8E-9FD3-4693B12F7ADB.jpeg 1095,1414,1643,1605,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094920.jpg 466,1056,704,1418,0 939,1049,1208,1463,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094921.jpg 414,1356,601,1628,0 842,1273,1094,1583,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094923.jpg 680,1407,894,1683,0 1135,1356,1332,1659,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094934.jpg 597,1294,842,1628,0 1114,1221,1332,1549,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094936.jpg 859,1228,1073,1590,0 1270,1204,1477,1514,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094937.jpg 801,1214,1097,1597,0 1328,1176,1559,1507,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095036.jpg 863,1045,1135,1418,0 418,966,642,1318,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095037.jpg 418,1118,625,1469,0 846,1187,1128,1521,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095038.jpg 439,1269,711,1563,0 949,1287,1246,1576,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095048.jpg 363,1035,663,1373,0 901,987,1159,1307,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095049.jpg 546,1200,890,1507,0 1080,1138,1283,1431,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095051.jpg 590,873,901,1228,0 1039,904,1273,1221,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095740.jpg 611,842,890,1290,0 863,800,1218,1280,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095743.jpg 418,604,766,1094,0 728,628,1166,1069,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095744.jpg 580,618,928,1031,0 935,604,1332,1025,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095758.jpg 742,614,1001,966,0 970,597,1218,935,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095759.jpg 859,666,1121,1011,0 1059,666,1294,976,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095801.jpg 883,611,1166,969,0 1125,618,1356,942,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095817.jpg 746,1552,928,1759,0 973,1542,1170,1725,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095820.jpg 780,1418,970,1618,0 1083,1383,1308,1569,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095830.jpg 983,1104,1152,1280,0 1139,1069,1335,1252,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095831.jpg 818,1228,1018,1394,0 1077,1187,1256,1369,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104095833.jpg 808,1383,1004,1556,0 1063,1342,1235,1507,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100113.jpg 935,925,1297,1287,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100115.jpg 1246,811,1570,1197,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100121.jpg 1208,580,1583,973,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100132.jpg 1163,914,1425,1197,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100133.jpg 1204,794,1449,1042,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100134.jpg 1214,807,1442,1069,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100136.jpg 1221,883,1459,1138,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100201.jpg 1080,1259,1304,1583,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100203.jpg 928,1221,1094,1583,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100204.jpg 904,1435,1039,1749,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100212.jpg 883,1063,1135,1407,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100219.jpg 959,918,1163,1376,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100220.jpg 908,938,1073,1369,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100635.jpg 2098,1475,2416,1870,0 2384,1811,2621,2098,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100636.jpg 2243,1648,2475,1930,0 1971,1275,2271,1693,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100637.jpg 1703,1384,2012,1793,0 1930,1693,2239,1984,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100644.jpg 1798,1139,2043,1489,0 1934,1425,2143,1675,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100645.jpg 1793,1002,2048,1284,0 1989,1320,2143,1557,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104100646.jpg 1884,1016,2139,1320,0 2043,1320,2175,1543,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101904.jpg 1184,1766,1553,2270,0 1989,1766,2407,2243,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101906.jpg 1262,1925,1657,2411,0 2066,1857,2403,2293,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101912.jpg 1157,1520,1621,2070,0 1916,1425,2239,1820,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101913.jpg 1293,1593,1721,2116,0 1966,1543,2234,1911,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101950.jpg 834,1889,1262,2339,0 1512,1930,1930,2380,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101951.jpg 1193,1748,1662,2198,0 1848,1725,2280,2161,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101957.jpg 939,1430,1453,1934,0 1684,1393,2030,1761,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101958.jpg 562,1280,1057,1766,0 1348,1225,1784,1652,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102008.jpg 1153,1243,1516,1766,0 1471,1248,1939,1766,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102009.jpg 1157,1216,1534,1739,0 1471,1225,1957,1720,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102015.jpg 1357,1034,1689,1484,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102016.jpg 1534,1134,1862,1561,0 1793,1139,2098,1561,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102025.jpg 1193,2330,1448,2552,0 1539,2334,1839,2543,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102026.jpg 1498,2339,1780,2557,0 1962,2289,2262,2507,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102033.jpg 1012,1757,1389,2025,0 1716,1602,2075,1893,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102034.jpg 1507,1693,1816,1925,0 2043,1602,2298,1825,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102219.jpg 1898,1275,2353,1793,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102221.jpg 1966,1466,2457,1925,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102222.jpg 1998,1448,2448,1848,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102230.jpg 1993,1225,2280,1552,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102232.jpg 1971,1166,2266,1543,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102249.jpg 1789,2211,2048,2711,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102250.jpg 1712,2330,1912,2793,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102250_1.jpg 1425,2220,1653,2693,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102256.jpg 1884,1166,2189,1784,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102258.jpg 1680,1080,2016,1766,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102259.jpg 1698,1080,2016,1752,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102501.jpg 1466,1498,1757,1852,0 1789,1802,2098,2080,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102502.jpg 1307,1425,1598,1789,0 1598,1684,1943,1980,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102507.jpg 1998,952,2284,1261,0 2248,1230,2348,1411,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104102509.jpg 1943,1020,2180,1361,0 2162,1316,2266,1502,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104424.jpg.jpg 1507,1448,1862,1961,0 1925,1398,2162,1802,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104452.jpg.jpg 2080,1266,2539,1993,0 743,1261,1134,1848,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104459.jpg.jpg 1507,1189,1957,1784,0 1862,1180,2103,1652,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/04895362-1945-49EA-B7FC-CBCE05F702FA.jpeg 1505,1310,2053,1752,0 1578,1158,2153,1418,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104417.jpg.jpg 1407,2039,1712,2484,0 2212,1945,2542,2355,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104509.jpg.jpg 1180,834,1653,1466,0 1617,905,2127,1495,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104514.jpg.jpg 657,580,1192,1095,0 1172,510,1557,1040,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104526.jpg.jpg 972,2020,1247,2275,0 1587,2015,1897,2280,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104531.jpg.jpg 1682,1510,1962,1810,0 2057,1405,2312,1685,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104652.jpg.jpg 2007,1300,2467,1675,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104658.jpg.jpg 1782,1145,2082,1525,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104715.jpg.jpg 1892,1685,2147,2285,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104722.jpg.jpg 1497,1340,1752,2025,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104849.jpg.jpg 1067,1340,1397,1750,0 1447,1620,1742,1940,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104856.jpg.jpg 807,900,1127,1300,0 1107,1225,1297,1465,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound1829932174579193633.jpg 1146,948,1700,1361,0 1146,1914,1680,2241,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound237892595242271371a7.jpg 1106,934,1673,1381,0 1166,1961,1746,2381,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound3123628765062608027.jpg 1013,1368,1566,1701,0 1046,2061,1580,2354,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound3503054981007597880.jpg 1226,1234,1686,1621,0 1300,2121,1766,2461,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound405814222335482352.jpg 1106,1874,1580,2174,0 1146,2408,1600,2668,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound5028448298870750435.jpg 1393,1601,1793,1934,0 1393,2194,1773,2374,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound7240983676009396502.jpg 1433,1688,1853,2021,0 1546,2241,1913,2468,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound8327723414412556967.jpg 946,1441,1406,1761,0 973,1948,1446,2281,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B15A2864-7D05-4421-8697-96695AEC1062.jpeg 1198,1572,1778,1872,0 1458,1705,1898,2165,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B5C39DF2-FBA3-42B3-9F7D-0F7F9789D4C3.jpeg 1312,2565,1705,2905,0 2159,2478,2606,2818,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B7FDB2C6-F03A-4AC0-91D4-74FD790C2EE2.jpeg 2639,1325,3006,1745,0 2979,1632,3333,1978,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B8B1D8C0-C221-4E22-B94C-899B1781508F.jpeg 1105,1785,1625,2352,0 2053,1732,2713,2332,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B9CA14C1-B6AB-4E93-8C47-1D6433D0079E.jpeg 1865,965,2446,1678,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/BA258F01-B799-4AC3-9150-4B843DFCC732.jpeg 1765,1798,2246,2118,0 2018,1898,2553,2172,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/BB736353-E39E-4D44-AF16-7CB4C628A350.jpeg 578,1205,985,1985,0 2133,1298,2739,2152,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/BCA00283-F44D-4A11-B5C0-D952E3850767.jpeg 1965,1245,2299,1598,0 2299,1525,2626,1838,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/BE5538AE-AE6D-454A-9FEB-0129F00AA229.jpeg 865,1232,1092,1705,0 958,1145,1252,1478,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C030A758-BA19-47B0-93CA-8A00953FEF15.jpeg 1678,1365,2045,1732,0 1985,1645,2299,1972,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C3EF97BF-8810-4BBB-A5B9-B5CEBACB7990.jpeg 1252,952,1572,1418,0 1445,872,1992,1458,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C5380E85-62A5-4370-AC48-F1B86F682539.jpeg 1352,1658,1692,2465,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C77C7F84-9FB8-4541-9D84-F9DA91E744D9.jpeg 1392,1418,1985,2252,0 785,1458,1152,2165,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C98E64DD-8108-47E0-B1E3-FBD31A79CDD0.jpeg 1552,1285,1892,1678,0 1825,1585,2166,1885,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C9AD3BE8-D255-4CB2-AE3B-98D5F5468C7C.jpeg 1812,1592,2406,2345,0 1278,1458,1572,2005,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/CAD42FD7-0A7C-4D4B-B57C-A376FD54217D.jpeg 1365,2032,1698,2318,0 1912,1898,2326,2225,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/CEB0B4B0-7DA1-41CD-9A12-5A032D4F5F27.jpeg 2086,718,2979,1525,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/CF6727AD-C5C5-4B57-AD7B-9B618800E989.jpeg 1725,932,2439,1612,0 1332,998,1818,1592,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/D0C5F71F-5123-4DC6-BF72-E6D2C7A9826C.jpeg 1738,1012,2353,1998,0 685,1118,1065,1932,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/D8CD07B3-0642-49F9-8B3E-978B79560AB4.jpeg 1305,1578,2032,1952,0 1565,1758,2053,2358,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/DF2C437C-FF39-46C7-BD03-70E3CD47BAC1.jpeg 1212,1472,1598,2065,0 1918,1565,2593,2325,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E2EF324B-C70B-4624-ACAD-416E19B862A4.jpeg 1405,1492,2025,1852,0 1692,1618,2253,2038,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E4D7541B-E590-4936-ACC8-318236817470.jpeg 1878,1085,2519,1718,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E64641EB-4BD9-4610-8FCB-115EE14D9BDB.jpeg 2045,1352,2299,2052,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/EFD74045-C622-4E20-A79D-3929404699D1.jpeg 1592,2132,2038,2532,0 2219,2112,2693,2485,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/F24CE92B-E40B-40E7-84C8-44C5B7923686.jpeg 1898,1592,2153,2292,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/F4B9B7B7-22FB-4E19-9ADD-845D12CDF326.jpeg 2259,998,2759,1612,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/FBA2BDB0-B0A2-4735-AD12-F277A720C474.jpeg 1525,1305,2045,2105,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094911.jpg 1650,851,1977,1304,0 944,840,1193,1235,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094913.jpg 1377,1119,1635,1530,0 2029,1083,2303,1446,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094915.jpg 1740,1114,2050,1509,0 2393,1051,2650,1409,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094927.jpg 1177,714,1503,1256,0 1887,698,2145,1104,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094929.jpg 881,772,1208,1272,0 1656,740,1950,1162,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094931.jpg 928,946,1219,1377,0 1624,840,1845,1214,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095029.jpg 892,767,1182,1130,0 1561,909,1935,1293,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095030.jpg 897,1019,1214,1330,0 1740,1072,2087,1383,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095032.jpg 1350,1035,1756,1388,0 2156,856,2408,1214,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095042.jpg 1682,783,2029,1246,0 2066,698,2271,998,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095044.jpg 1698,825,2087,1277,0 2214,751,2403,1083,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095045.jpg 1119,867,1503,1246,0 1719,809,1977,1135,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095728.jpg 1224,451,1608,983,0 1587,483,2061,962,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095731.jpg 1171,472,1550,998,0 1450,577,1935,993,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095734.jpg 1424,630,1771,1140,0 1750,604,2187,1093,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095748.jpg 1371,698,1666,1135,0 1598,672,1929,1056,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095751.jpg 1266,719,1540,1146,0 1493,683,1835,1088,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095752.jpg 1450,656,1719,1088,0 1666,646,1924,1040,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095810.jpg 1198,1077,1445,1314,0 1550,1140,1829,1362,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095813.jpg 1587,1140,1877,1377,0 2019,1140,2271,1356,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095824.jpg 1493,946,1740,1125,0 1756,914,1977,1093,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095825.jpg 1761,1019,1956,1209,0 1935,977,2077,1151,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104095827.jpg 1682,1151,1856,1314,0 1856,1114,2003,1272,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100105.jpg 1850,440,2214,835,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100106.jpg 1861,519,2224,888,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100109.jpg 1940,435,2319,819,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100125.jpg 1903,646,2119,935,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100127.jpg 1945,583,2171,856,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100129.jpg 1877,583,2135,856,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100154.jpg 1382,809,1571,1240,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100155.jpg 1777,830,1971,1267,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100158.jpg 1614,998,1814,1388,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100207.jpg 1535,677,1782,1146,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100207_1.jpg 1682,783,1993,1193,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100208.jpg 1750,956,2082,1319,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100630.jpg 2237,1573,2590,2000,0 2550,1873,2863,2200,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100631.jpg 2410,1666,2750,2066,0 2690,1966,3010,2273,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100632.jpg 2550,1633,2857,2046,0 2803,1886,3083,2186,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100639.jpg 2470,913,2817,1333,0 2717,1240,3023,1546,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100641.jpg 2237,960,2563,1420,0 2443,1306,2697,1640,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104100642.jpg 2283,1160,2583,1633,0 2537,1473,2717,1806,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101051.jpg 1563,1306,2190,1546,0 1857,1420,2370,1846,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101053.jpg 2037,1426,2590,1806,0 2243,1546,2823,1893,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101054.jpg 2350,1560,2830,1960,0 2657,1673,3131,2007,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101057.jpg 1002,1810,1567,2005,0 1252,1890,1617,2215,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101058.jpg 1262,1640,1702,1890,0 1517,1720,1902,2000,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101059.jpg 1552,1595,1932,1930,0 1807,1650,2192,1900,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101102.jpg 2097,1393,2477,1693,0 2310,1453,2730,1713,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101103.jpg 1930,1493,2330,1773,0 2143,1546,2637,1786,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101104.jpg 1670,1420,2070,1720,0 1910,1500,2403,1786,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101107.jpg 1637,1360,1912,1530,0 1802,1425,2137,1605,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101108.jpg 1657,1365,1907,1565,0 1827,1435,2147,1605,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101109.jpg 1672,1480,1927,1675,0 1837,1560,2157,1720,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101901.jpg 1357,1593,1777,2253,0 2623,1473,3023,2106,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101902.jpg 1430,1746,1790,2320,0 2437,1686,2923,2320,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101909.jpg 2150,1580,2643,2206,0 2857,1513,3170,1946,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101910.jpg 1770,1566,2337,2300,0 2630,1466,3057,2000,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101947.jpg 1523,1353,1977,1893,0 2523,1326,3030,1886,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101948.jpg 1697,1506,2137,2033,0 2623,1593,3097,2080,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101953.jpg 2603,1233,3063,1793,0 3077,1146,3337,1526,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101954.jpg 1917,1193,2450,1753,0 2703,1133,3003,1520,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102004.jpg 1943,953,2323,1513,0 2303,1033,2810,1493,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102005.jpg 2010,986,2430,1506,0 2403,986,2863,1486,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102011.jpg 2163,1186,2570,1626,0 2497,1160,2723,1606,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102013.jpg 2210,1260,2557,1713,0 2470,1220,2690,1673,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102021.jpg 1890,1906,2190,2180,0 2337,1900,2683,2186,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102022.jpg 2097,1920,2423,2193,0 2563,1873,2903,2140,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102029.jpg 2277,1740,2603,2000,0 2623,1586,2937,1840,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102030.jpg 1970,1653,2277,1893,0 2417,1520,2737,1760,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102215.jpg 2203,1153,2817,1686,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102216.jpg 2430,1186,3010,1680,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102217.jpg 2470,1040,3057,1606,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102226.jpg 2377,1146,2743,1553,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102227.jpg 2290,1206,2663,1600,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102228.jpg 2143,1220,2523,1586,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102244.jpg 2010,1433,2257,2126,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102245.jpg 2070,1480,2383,2220,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102246.jpg 2297,1540,2570,2253,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102253.jpg 2303,1126,2617,1833,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102254.jpg 2343,1146,2710,1846,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102255.jpg 2330,1420,2663,2046,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102455.jpg 2623,1113,2957,1580,0 2923,1546,3263,1893,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102456.jpg 2557,1266,2943,1726,0 2890,1606,3230,1933,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102458.jpg 2710,1300,3090,1753,0 3050,1660,3477,1986,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102504.jpg 2257,1260,2597,1666,0 2583,1546,2810,1800,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102505.jpg 2343,1333,2663,1726,0 2623,1593,2830,1846,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102804.jpg 1837,1513,2430,1880,0 2177,1660,2683,2193,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102806.jpg 1790,1346,2410,1600,0 2103,1446,2517,1893,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102808.jpg 1437,1725,1922,2020,0 1747,1875,2147,2240,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102809.jpg 1632,1695,2117,2035,0 1927,1825,2332,2205,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102813.jpg 2077,1366,2503,1700,0 2377,1446,2823,1766,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102816.jpg 1877,1353,2337,1680,0 2157,1440,2597,1773,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102818.jpg 1537,1190,1857,1395,0 1772,1250,2112,1525,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104102820.jpg 1702,1240,1982,1445,0 1917,1345,2217,1565,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104414.jpg.jpg 1697,1740,2030,2280,0 2563,1746,2963,2313,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104421.jpg.jpg 1717,1200,2277,1986,0 2537,1073,2903,1673,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104449.jpg.jpg 1090,1326,1783,2093,0 2897,1540,3477,2300,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104456.jpg.jpg 1677,1193,2590,2026,0 2950,1166,3223,1733,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104506.jpg.jpg 2043,840,2477,1420,0 2477,913,2983,1460,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104512.jpg.jpg 1837,1120,2457,1773,0 2337,1093,2790,1760,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104523.jpg.jpg 1497,1833,1817,2106,0 2223,1853,2557,2193,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104529.jpg.jpg 2223,1800,2590,2173,0 2770,1566,3090,1920,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104650.jpg.jpg 2470,873,3123,1526,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104655.jpg.jpg 2657,500,3063,1113,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104711.jpg.jpg 2150,1666,2397,2440,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104719.jpg.jpg 2363,1080,2830,1873,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104847.jpg.jpg 2850,1313,3217,1780,0 3190,1653,3583,1993,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104852.jpg.jpg 2770,833,3143,1293,0 3057,1166,3297,1493,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104105103.jpg.jpg 1570,1420,2210,1840,0 1910,1613,2370,2086,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104105105.jpg.jpg 1307,1375,1792,1680,0 1532,1465,2012,1770,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104105109.jpg.jpg 1943,926,2450,1280,0 2283,1053,2857,1433,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104105112.jpg.jpg 1307,1255,1582,1535,0 1452,1390,1842,1660,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound2234426310423886002.jpg 1160,1934,1933,2721,0 2927,1901,3321,2554,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound285262119911545709.jpg 893,1581,1346,2388,0 2254,1681,3007,2554,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound2906037375846223867.jpg 940,1521,1213,2228,0 1620,1641,2207,2561,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound3471111171078370940.jpg 660,1574,1113,2274,0 1740,1541,2361,2434,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5524501076445148227.jpg 1806,1881,2334,2741,0 3234,1941,3787,2794,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5724341970996631521.jpg 600,1814,980,2454,0 1646,1888,2407,2668,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6619265770024154416.jpg 993,1874,1386,2568,0 2194,1814,2707,2581,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound687217667440185335.jpg 1006,1948,1500,2474,0 1920,1954,2514,2548,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound7690370525221177486.jpg 1300,1914,1700,2688,0 2387,1921,2907,2774,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound7962025272627539017.jpg 1146,1908,1993,2681,0 2801,1868,3207,2434,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound8412508218708711806.jpg 646,1541,1153,2454,0 2107,1534,2754,2421,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound8553743441701124822.jpg 646,1541,1046,2194,0 1540,1561,2094,2434,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101352.jpg 1699,1376,1905,1605,0 1810,1163,2026,1597,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101353.jpg 1948,1765,2278,2398,0 1902,2081,2098,2398,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101355.jpg 1328,1908,1672,2575,0 1212,2235,1472,2545,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101357.jpg 1915,1951,2258,2595,0 1845,2308,2078,2598,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101358.jpg 1134,1097,1518,1287,0 1341,1187,1544,1384,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101359.jpg 1199,1129,1594,1308,0 1397,1218,1620,1379,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101400.jpg 1258,1511,1722,1745,0 1492,1651,1715,1805,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101402.jpg 1105,994,1592,1241,0 1355,1135,1608,1298,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_101405.jpg 1218,2145,1758,2401,0 1485,2248,1735,2438,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102158.jpg 1632,1981,1988,2608,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102201.jpg 1468,1901,1822,2521,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102202.jpg 2045,1825,2438,2471,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102205.jpg 1182,2038,1625,2271,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102208.jpg 1235,1491,1645,1718,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102212.jpg 1142,1598,1585,1881,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102342.jpg 1722,2041,1998,2478,0 2035,2078,2295,2495,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102344.jpg 2045,1981,2325,2455,0 2342,2038,2612,2495,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102346.jpg 925,1971,1225,2428,0 1255,2015,1538,2438,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102349.jpg 1188,1641,1525,1845,0 1188,1868,1518,2078,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102351.jpg 1218,2055,1555,2271,0 1225,2241,1558,2481,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102354.jpg 1232,1258,1582,1461,0 1235,1441,1575,1675,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102529.jpg 1268,1775,1668,2121,0 1952,1845,2448,2295,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102531.jpg 1708,1711,2058,1968,0 2252,1828,2785,2281,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102534.jpg 965,1631,1375,1928,0 1632,1721,2112,2121,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102536.jpg 958,1815,1212,2118,0 1012,1331,1285,1658,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102538.jpg 1178,1428,1425,1705,0 1188,957,1435,1291,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102540.jpg 1195,1845,1445,2195,0 1172,2328,1412,2595,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102726.jpg 1682,1355,1962,1628,0 2142,1361,2472,1645,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102728.jpg 1645,1445,1938,1698,0 2092,1428,2395,1728,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102731.jpg 1362,1431,1642,1705,0 1795,1451,2092,1741,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102734.jpg 738,1375,968,1645,0 748,1748,972,1995,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102735.jpg 732,1178,978,1425,0 768,1535,995,1781,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102738.jpg 615,954,872,1208,0 642,1345,892,1578,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102924.jpg 1478,1958,1778,2501,0 1958,2041,2388,2578,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102926.jpg 1505,1965,1762,2475,0 1935,2028,2338,2538,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102928.jpg 1442,1958,1735,2478,0 1892,2011,2268,2531,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102932.jpg 1208,1798,1608,2098,0 1162,2211,1542,2451,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102934.jpg 1162,1565,1542,1805,0 1185,1161,1578,1471,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_102937.jpg 1075,1328,1485,1538,0 1095,977,1535,1245,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_103424.jpg 1812,1648,2175,2291,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_103426.jpg 2168,1518,2578,2168,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_103437.jpg 988,1000,1435,1261,0 1268,1165,1492,1291,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_103435.jpg 1025,1648,1452,1888,0 1295,1791,1492,1918,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_103432.jpg 1518,1538,1815,2151,0 1438,1858,1658,2188,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_103440.jpg 1082,2151,1538,2418,0 1342,2295,1578,2451,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104127.jpg 1725,1518,2058,2248,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104130.jpg 1698,1475,2048,2185,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104132.jpg 1635,1518,1958,2228,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104135.jpg 838,1615,1392,1875,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104138.jpg 892,1705,1408,1998,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104140.jpg 822,1731,1395,2035,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104322.jpg 1432,1888,1738,2375,0 1925,1908,2248,2415,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104325.jpg 1735,1801,2028,2288,0 2142,1855,2482,2355,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104327.jpg 1302,1875,1615,2368,0 795,1845,1128,2328,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104331.jpg 1172,2141,1545,2365,0 1185,2441,1525,2665,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104334.jpg 1235,1495,1575,1731,0 1222,1778,1548,2015,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104336.jpg 1252,970,1605,1201,0 1245,1265,1575,1475,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104525.jpg 1388,1798,1785,2118,0 1898,1948,2375,2251,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104527.jpg 1908,1788,2278,2051,0 2348,1911,2798,2205,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104529.jpg 702,1818,1138,2111,0 1208,1908,1672,2191,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104532.jpg 1352,2038,1552,2361,0 1282,2401,1505,2688,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104534.jpg 1355,1375,1542,1671,0 1302,1715,1512,1991,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104537.jpg 1312,954,1512,1265,0 1272,1325,1482,1605,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104720.jpg 1662,1331,2018,1615,0 2098,1325,2472,1658,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104723.jpg 1965,1371,2308,1651,0 2372,1381,2712,1655,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104726.jpg 1578,1305,1908,1581,0 1988,1331,2282,1585,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104729.jpg 782,1365,1022,1611,0 782,1668,1012,1921,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104731.jpg 725,1235,975,1505,0 715,957,978,1195,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104734.jpg 822,1581,1062,1808,0 805,1868,1038,2118,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104842.jpg 1192,1711,1552,2171,0 1622,1888,2122,2335,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104910.jpg 1502,2035,1758,2661,0 1988,2118,2398,2741,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104913.jpg 1552,1975,1805,2561,0 1975,2011,2355,2615,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104916.jpg 1965,1921,2225,2495,0 2375,1995,2762,2558,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104919.jpg 1382,1415,1812,1718,0 1322,1818,1772,2038,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104922.jpg 1298,1441,1755,1661,0 1335,1025,1802,1341,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_104925.jpg 1482,1895,1928,2215,0 1435,2308,1912,2551,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_105809.jpg 1828,1795,2148,2528,0 1752,2118,1948,2448,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_105812.jpg 1558,1778,1905,2425,0 1492,2028,1718,2368,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_105814.jpg 1622,1661,1985,2311,0 1545,1968,1772,2261,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_105818.jpg 1302,1561,1732,1761,0 1512,1665,1725,1811,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_105820.jpg 1238,1108,1695,1305,0 1462,1228,1665,1378,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/20201220_105822.jpg 1282,2071,1722,2291,0 1502,2211,1688,2358,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/27283049-976D-4DD8-B40A-EE43D8661E26.jpeg 1498,1601,1637,1927,0 1679,1653,1859,1950,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/713457E0-E430-4641-BEAF-9BB0FDE999F6.jpeg 1105,1556,1430,1756,0 1134,1788,1440,1924,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/78360983-6C42-49B5-B3F2-330523E75C20.jpeg 969,1634,1179,1863,0 1047,1898,1227,2092,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/A363D17E-3EAB-448C-8A98-5B9E84F1237F.jpeg 1601,1224,1779,1388,0 1782,1217,1930,1388,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B2039FC4-3EC2-455C-9DED-F1FE504BF7A9.jpeg 753,1627,1134,1882,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B30BC16E-B153-4870-9A6D-825A1BE711FD.jpeg 1385,1401,1611,1588,0 1653,1447,1898,1669,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/BD883D46-E99C-4591-81CD-86A156AE48D8.jpeg 505,1556,708,1734,0 621,1701,801,1882,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C8217FF3-A046-48DD-B475-2C0A6604971E.jpeg 992,1601,1205,1827,0 1050,1853,1250,2056,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/CC32A822-2B09-4F4C-98AF-2485D86C679E.jpeg 1366,1405,1576,1579,0 1640,1456,1882,1705,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/CDA90DB2-BD92-4EC7-8ACD-6C5B55FBE1E7.jpeg 550,1579,750,1747,0 640,1730,821,1921,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/D2310155-9276-4B28-87A6-E1253BEC37C4.jpeg 1347,1379,1585,1550,0 1643,1443,1895,1659,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E05BDFBB-9AAF-4485-BDFE-8E2C7B38E91B.jpeg 1488,1224,1753,1640,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E3A3DC7A-52D8-4E28-BF0C-0C550E54F99C.jpeg 730,1688,1140,1914,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/EA8A14A2-D605-4A47-9C46-CB05E2DF9369.jpeg 985,1650,1185,1866,0 1056,1892,1234,2098,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/F81D95F8-137C-40F6-B064-710293624261.jpeg 1521,1611,1659,1934,0 1685,1643,1882,1927,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1910.jpeg 1399,1926,1552,2118,0 1517,1794,1657,2108,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1911.jpeg 1386,1792,1530,2097,0 1280,1915,1425,2131,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1912.jpeg 1496,1958,1683,2160,0 1615,1808,1770,2139,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1913.jpeg 1504,1139,1809,1302,0 1636,1258,1820,1394,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1914.jpeg 1536,1373,1830,1537,0 1670,1471,1846,1644,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1915.jpeg 1557,1231,1838,1397,0 1675,1337,1857,1497,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1996.jpeg 1499,1905,1665,2229,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1997.jpeg 1209,1831,1375,2137,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1998.jpeg 1307,1800,1486,2105,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_1999.jpeg 1407,1250,1686,1450,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2001.jpeg 1380,1350,1657,1560,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2002.jpeg 1425,1244,1704,1465,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102201.jpg 1827,1422,2098,2076,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102202.jpg 1808,1425,2072,2109,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102206.jpg 1305,1630,1605,1843,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102208.jpg 1345,1657,1645,1843,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102210.jpg 1382,1653,1695,1847,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102341.jpg 1753,1809,1953,2164,0 2031,1805,2234,2193,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102342.jpg 1698,1799,1927,2147,0 1992,1809,2198,2160,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102343.jpg 1721,1812,1934,2173,0 1998,1812,2221,2173,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102348.jpg 1414,1644,1656,1799,0 1405,1428,1676,1589,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102349.jpg 1437,1625,1679,1789,0 1434,1425,1679,1580,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102350.jpg 1456,1422,1698,1580,0 1437,1628,1695,1770,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102529.jpg 1508,1567,1824,1809,0 2066,1586,2405,1847,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102530.jpg 1434,1570,1756,1809,0 2011,1589,2372,1873,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102531.jpg 1472,1580,1772,1805,0 2043,1586,2385,1854,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102535.jpg 1250,1293,1431,1538,0 1247,1709,1414,1918,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102536.jpg 1247,1722,1437,1941,0 1253,1312,1440,1535,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102537.jpg 1256,1331,1411,1554,0 1263,1738,1434,1954,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102725.jpg 1653,1270,1918,1499,0 2072,1260,2360,1512,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102726.jpg 1672,1257,1931,1499,0 2092,1270,2376,1493,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102727.jpg 1585,1267,1885,1502,0 2037,1267,2331,1505,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102735.jpg 1131,1228,1308,1447,0 1124,1535,1305,1712,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102735_1.jpg 1140,1244,1311,1454,0 1140,1554,1318,1731,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102736.jpg 1143,1257,1305,1454,0 1147,1547,1308,1741,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102924.jpg 1460,1676,1766,2118,0 1931,1725,2305,2144,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102924_1.jpg 1443,1705,1750,2135,0 1924,1735,2302,2147,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102925.jpg 1443,1696,1747,2131,0 1933,1744,2321,2151,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102931.jpg 1389,1660,1672,1854,0 1382,1335,1689,1544,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102932.jpg 1408,1286,1714,1544,0 1395,1660,1698,1880,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_102933.jpg 1411,1305,1711,1567,0 1395,1676,1682,1876,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_103421.jpg 1960,1554,2131,1954,0 1879,1757,2040,1996,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_103423.jpg 1972,1464,2160,1925,0 1898,1699,2050,1944,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_103424.jpg 1950,1480,2140,1893,0 1869,1686,2037,1935,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_103434.jpg 1563,1457,1843,1576,0 1727,1515,1885,1635,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_103435.jpg 1514,1451,1814,1596,0 1679,1535,1847,1654,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_103436.jpg 1543,1418,1818,1557,0 1708,1483,1869,1599,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104125.jpg 1956,1393,2153,1857,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104126.jpg 1985,1357,2160,1841,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104127.jpg 1956,1347,2131,1854,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104131.jpg 979,1360,1431,1547,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104133.jpg 882,1331,1356,1557,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104135.jpg 834,1357,1282,1576,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104321.jpg 1692,1657,1927,2038,0 2127,1651,2363,2012,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104322.jpg 1676,1641,1924,1996,0 2124,1618,2360,1983,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104323.jpg 1695,1638,1921,1999,0 2131,1625,2356,2012,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104329.jpg 1153,1580,1437,1802,0 1124,1238,1437,1435,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104330.jpg 1150,1218,1450,1425,0 1172,1576,1453,1793,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104331.jpg 1134,1215,1443,1428,0 1140,1583,1424,1799,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104524.jpg 1579,1560,1914,1799,0 2089,1615,2434,1847,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104524_1.jpg 1621,1560,1953,1783,0 2140,1609,2489,1847,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104525.jpg 1592,1535,1943,1789,0 2111,1580,2463,1838,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104529.jpg 979,1599,1192,1915,0 998,1160,1202,1480,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104530.jpg 918,1154,1156,1476,0 934,1609,1124,1922,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104531.jpg 1014,1183,1227,1496,0 1021,1628,1218,1922,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104719.jpg 1698,1199,1979,1447,0 2060,1205,2353,1457,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104720.jpg 1711,1176,1985,1422,0 2060,1176,2347,1418,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104721.jpg 1676,1160,1979,1409,0 2053,1160,2350,1422,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104726.jpg 569,1209,814,1480,0 582,1528,843,1793,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104727.jpg 482,1225,750,1486,0 495,1557,747,1812,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104728.jpg 476,1186,750,1457,0 492,1525,747,1793,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104841.jpg 1540,1622,1921,1986,0 1995,1673,2389,1999,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104908.jpg 1718,1809,1934,2254,0 2143,1835,2443,2260,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104909.jpg 1737,1783,1953,2241,0 2147,1818,2405,2235,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104910.jpg 1779,1789,1989,2218,0 2143,1799,2424,2225,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104916.jpg 1321,1605,1734,1802,0 1327,1209,1740,1470,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104917.jpg 1360,1131,1756,1425,0 1343,1551,1753,1760,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_104918.jpg 1334,1528,1740,1735,0 1350,1118,1753,1405,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_105819.jpg 2024,1570,2192,1944,0 1947,1725,2082,1928,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_105822.jpg 2043,1576,2218,1954,0 1972,1735,2131,1944,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_105824.jpg 2079,1580,2276,1954,0 2014,1751,2156,1935,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_105830.jpg 1418,1309,1740,1447,0 1572,1396,1727,1512,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_105832.jpg 1327,1289,1656,1441,0 1479,1389,1637,1522,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_105834.jpg 1285,1286,1605,1467,0 1447,1405,1595,1525,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110538.jpg 2156,1002,2327,1454,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110539.jpg 2172,1005,2366,1460,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110541.jpg 2176,961,2367,1435,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110546.jpg 753,1296,1192,1467,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110548.jpg 760,1309,1182,1512,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110737.jpg 2008,1599,2189,1864,0 2260,1580,2424,1873,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110738.jpg 1972,1596,2150,1854,0 2253,1567,2418,1867,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110739.jpg 1969,1596,2156,1857,0 2247,1570,2418,1847,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110746.jpg 1356,1354,1608,1505,0 1369,1583,1582,1738,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110747.jpg 1337,1351,1592,1505,0 1356,1589,1540,1747,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110748.jpg 1285,1373,1563,1522,0 1298,1599,1511,1751,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110945.jpg 2102,1631,2324,1799,0 2447,1644,2679,1815,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110948.jpg 1814,1631,2034,1783,0 2153,1628,2389,1812,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110949.jpg 1802,1612,2018,1770,0 2143,1618,2376,1799,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110955.jpg 1285,1067,1437,1283,0 1263,1370,1408,1580,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110956.jpg 1282,1018,1427,1238,0 1272,1328,1398,1547,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_110957.jpg 1189,1044,1347,1257,0 1182,1347,1318,1564,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111213.jpg 1931,1447,2118,1589,0 2143,1451,2331,1609,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111214.jpg 1940,1425,2102,1586,0 2143,1415,2331,1570,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111215.jpg 1911,1418,2105,1570,0 2147,1405,2311,1573,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111220.jpg 1221,1351,1379,1522,0 1214,1551,1347,1718,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111222.jpg 1140,1299,1295,1454,0 1134,1496,1276,1644,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111223.jpg 1127,1286,1256,1473,0 1108,1493,1253,1664,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111355.jpg 1985,1560,2289,1857,0 2311,1602,2640,1854,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111422.jpg 1821,1857,2043,2170,0 2095,1864,2340,2170,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111423.jpg 1837,1831,2047,2147,0 2098,1851,2350,2151,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111426.jpg 1547,1364,1808,1570,0 1531,1615,1798,1815,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111427.jpg 1398,1370,1666,1589,0 1385,1625,1663,1828,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_20201220_111428.jpg 1334,1296,1614,1522,0 1314,1567,1602,1764,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2021.jpeg 1296,1944,1449,2215,0 1528,1960,1691,2197,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2022.jpeg 1459,1855,1609,2118,0 1686,1865,1844,2142,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2023.jpeg 1441,1871,1583,2137,0 1659,1868,1833,2123,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2024.jpeg 1615,1073,1852,1247,0 1604,1292,1830,1452,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2025.jpeg 1525,1200,1744,1371,0 1504,1429,1736,1579,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2026.jpeg 1488,1258,1715,1439,0 1470,1502,1707,1639,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2045.jpeg 1191,1739,1444,1950,0 1644,1742,1891,1939,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2046.jpeg 1088,1658,1346,1844,0 1544,1665,1799,1858,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2047.jpeg 1188,1660,1457,1847,0 1649,1663,1904,1855,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2048.jpeg 1244,1284,1433,1555,0 1299,847,1480,1084,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2049.jpeg 1246,1013,1452,1265,0 1183,1458,1394,1744,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2050.jpeg 1262,952,1449,1194,0 1204,1402,1404,1687,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2070.jpeg 1162,1623,1399,1842,0 1496,1623,1730,1834,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2071.jpeg 1059,1537,1283,1726,0 1396,1550,1623,1750,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2072.jpeg 1057,1513,1267,1692,0 1383,1515,1612,1708,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2073.jpeg 944,1365,1130,1581,0 975,1015,1165,1244,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2074.jpeg 828,1208,1033,1439,0 794,1542,1007,1789,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2075.jpeg 830,1158,1046,1373,0 817,1500,1023,1739,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2094.jpeg 1223,1787,1470,2076,0 1580,1797,1859,2097,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2095.jpeg 1096,1726,1338,2015,0 1441,1734,1728,2026,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2096.jpeg 1254,1760,1499,2047,0 1602,1758,1849,2065,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2097.jpeg 1283,1347,1559,1594,0 1299,992,1573,1242,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2098.jpeg 1209,1242,1475,1515,0 1173,1623,1459,1852,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2099.jpeg 1178,1276,1438,1552,0 1144,1673,1428,1900,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2136.jpeg 1599,1487,1712,1802,0 1509,1610,1649,1829,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2137.jpeg 1399,1560,1538,1879,0 1323,1697,1465,1894,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2138.jpeg 1402,1542,1530,1850,0 1325,1673,1467,1876,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2139.jpeg 1191,1292,1502,1408,0 1338,1360,1509,1487,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2140.jpeg 1209,1165,1515,1276,0 1349,1223,1523,1358,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2141.jpeg 1236,1497,1525,1618,0 1375,1563,1552,1694,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2209.jpeg 1633,1768,1752,2076,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2210.jpeg 1441,1744,1575,2042,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2211.jpeg 1407,1726,1536,2018,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2212.jpeg 1362,1215,1636,1342,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2213.jpeg 1438,1318,1709,1460,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2214.jpeg 1496,1184,1759,1318,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2233.jpeg 1357,1879,1520,2108,0 1633,1868,1783,2089,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2234.jpeg 1307,1921,1459,2144,0 1580,1900,1723,2134,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2235.jpeg 1302,1892,1454,2121,0 1567,1873,1715,2097,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2236.jpeg 1662,997,1873,1134,0 1667,1231,1880,1381,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2237.jpeg 1623,1287,1830,1439,0 1620,1042,1825,1176,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2238.jpeg 1625,1237,1825,1373,0 1620,1476,1830,1621,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2259.jpeg 1367,1818,1588,1971,0 1720,1837,1946,2002,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2260.jpeg 1386,1868,1612,2034,0 1730,1894,1967,2058,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2261.jpeg 1257,1687,1483,1847,0 1591,1702,1828,1863,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2262.jpeg 1486,1252,1659,1481,0 1520,929,1683,1165,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2263.jpeg 1470,1050,1630,1284,0 1438,1379,1620,1594,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2264.jpeg 1433,965,1604,1197,0 1399,1281,1575,1502,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2303.jpeg 1538,1847,1799,2094,0 1844,1884,2117,2102,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2309.jpeg 1428,1942,1588,2239,0 1704,1963,1915,2242,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2310.jpeg 1449,1868,1591,2147,0 1702,1876,1907,2152,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2311.jpeg 1375,1847,1523,2123,0 1630,1852,1825,2121,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2312.jpeg 1588,989,1823,1213,0 1565,1302,1817,1434,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2313.jpeg 1546,1358,1812,1505,0 1573,1073,1807,1279,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2314.jpeg 1504,1163,1736,1363,0 1470,1460,1744,1600,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2360.jpeg 1549,1513,1665,1813,0 1478,1639,1594,1794,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2361.jpeg 1641,1513,1759,1808,0 1575,1639,1699,1789,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2362.jpeg 1480,1584,1607,1868,0 1423,1692,1544,1852,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2363.jpeg 1441,1360,1694,1494,0 1544,1429,1688,1537,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2364.jpeg 1441,1221,1699,1352,0 1557,1289,1680,1397,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2365.jpeg 1373,1239,1649,1379,0 1480,1308,1625,1426,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2438.jpeg 1580,1537,1691,1818,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2439.jpeg 1615,1468,1744,1752,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2440.jpeg 1546,1513,1670,1802,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2441.jpeg 1444,1184,1720,1302,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2442.jpeg 1449,1060,1730,1192,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2443.jpeg 1502,1268,1783,1402,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2462.jpeg 1436,1710,1565,1918,0 1641,1708,1778,1905,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2463.jpeg 1444,1692,1575,1889,0 1654,1681,1791,1902,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2464.jpeg 1391,1658,1530,1871,0 1599,1655,1733,1873,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2465.jpeg 1438,1200,1638,1337,0 1430,1400,1630,1526,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2466.jpeg 1528,1079,1720,1208,0 1530,1263,1717,1387,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2467.jpeg 1544,1179,1733,1313,0 1544,1376,1736,1492,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2488.JPG 1270,1858,1454,2005,0 1538,1855,1744,2026,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2489.JPG 1354,1776,1536,1910,0 1617,1773,1825,1947,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2490.JPG 1341,1668,1530,1789,0 1604,1671,1815,1837,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2491.JPG 1565,1129,1707,1329,0 1570,1387,1715,1573,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2492.JPG 1562,1039,1699,1247,0 1575,1315,1720,1500,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2493.JPG 1525,1023,1680,1229,0 1541,1292,1683,1481,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2512.jpeg 1449,1087,1630,1213,0 1659,1081,1833,1213,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2513.jpeg 1449,1129,1625,1263,0 1657,1123,1844,1268,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2514.jpeg 1515,1131,1688,1279,0 1717,1142,1891,1284,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2515.jpeg 1044,1026,1199,1210,0 1046,1242,1194,1429,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2516.jpeg 1017,1105,1167,1281,0 1025,1321,1170,1510,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2517.jpeg 1117,984,1265,1168,0 1117,1194,1262,1379,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2536.jpeg 1362,1584,1536,1858,0 1615,1626,1830,1884,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2537.jpeg 1454,1600,1633,1879,0 1702,1637,1925,1889,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2538.jpeg 1262,1631,1441,1915,0 1509,1684,1738,1926,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2539.jpeg 1523,1181,1754,1394,0 1467,1463,1741,1623,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2540.jpeg 1533,1518,1796,1694,0 1580,1229,1809,1455,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2541.jpeg 1567,1000,1796,1213,0 1520,1273,1794,1437,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2710.jpg 2476,1727,2695,2253,0 2321,2001,2595,2363,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2711.jpg 2124,2017,2398,2366,0 2240,1776,2518,2292,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2712.jpg 1979,1843,2214,2314,0 1856,2079,2111,2408,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2713.jpg 1527,1298,1995,1517,0 1756,1366,2063,1601,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2714.jpg 1456,1324,1911,1559,0 1682,1417,1969,1656,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2715.jpg 1530,1411,1985,1663,0 1708,1514,2043,1763,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2792.jpg 2021,1601,2318,2153,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2793.jpg 1963,1676,2250,2230,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2794.jpg 1976,1808,2250,2350,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2795.jpg 1305,1521,1811,1808,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2796.jpg 1353,1547,1872,1827,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2797.jpg 1382,1537,1876,1805,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2816.jpg 2047,1740,2266,2159,0 2279,1698,2543,2063,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2817.jpg 2037,1753,2282,2153,0 2340,1708,2605,2088,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2818.jpg 1885,1811,2124,2201,0 2176,1750,2440,2130,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2819.jpg 1469,1301,1776,1501,0 1521,1530,1818,1708,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2820.jpg 1334,1172,1653,1372,0 1392,1424,1695,1608,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2821.jpg 1463,1311,1759,1514,0 1505,1556,1805,1737,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2840.jpg 1776,1447,2134,1743,0 2353,1427,2656,1682,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2841.jpg 1608,1488,1969,1769,0 2198,1443,2518,1714,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2842.jpg 1521,1676,1901,1988,0 2137,1605,2459,1879,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2843.jpg 1159,1272,1408,1585,0 1198,1821,1521,2214,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2844.jpg 1182,1240,1437,1569,0 1256,1808,1566,2198,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2845.jpg 1347,1676,1647,2098,0 1292,1088,1547,1437,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2865.jpg 1801,1166,2072,1427,0 2182,1143,2453,1388,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2866.jpg 1705,1192,1972,1453,0 2114,1169,2388,1434,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2867.jpg 1756,1534,2021,1772,0 2150,1482,2414,1717,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2868.jpg 792,1308,1034,1576,0 798,1698,1079,1969,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2869.jpg 653,1321,930,1617,0 695,1759,966,2076,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2870.jpg 695,1253,966,1559,0 737,1711,1024,2030,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2889.jpg 1714,1730,2085,2192,0 2237,1698,2585,2169,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2890.jpg 1727,1808,2076,2256,0 2247,1792,2611,2256,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2891.jpg 1666,1882,2014,2301,0 2176,1843,2543,2285,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2892.jpg 1385,1750,1798,2069,0 1353,1269,1785,1601,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2893.jpg 1363,1240,1785,1598,0 1385,1743,1795,2108,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2894.jpg 1476,1769,1882,2105,0 1453,1288,1866,1630,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2931.jpg 2105,1466,2318,1976,0 1995,1724,2230,2008,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2932.jpg 2230,1450,2421,1969,0 2076,1692,2334,1985,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2933.jpg 2050,1550,2282,2050,0 1950,1805,2179,2085,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2934.jpg 1195,1498,1659,1727,0 1392,1572,1714,1798,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2935.jpg 1488,1595,1779,1821,0 1269,1511,1718,1740,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_2936.jpg 1118,1456,1585,1711,0 1363,1566,1653,1782,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3005.jpg 2098,1537,2340,2037,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3006.jpg 2101,1582,2359,2127,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3007.jpg 2079,1553,2298,2063,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3008.jpg 1327,1650,1811,1853,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3009.jpg 1285,1505,1753,1737,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3010.jpg 1379,1601,1837,1827,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3029.jpg 1908,1595,2127,1956,0 2205,1534,2414,1872,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3030.jpg 1821,1743,2027,2098,0 2147,1659,2369,2024,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3031.jpg 1943,1901,2153,2276,0 2256,1837,2479,2208,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3032.jpg 1527,1188,1859,1408,0 1576,1527,1914,1747,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3033.jpg 1514,1153,1859,1363,0 1569,1482,1918,1708,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3034.jpg 1550,1237,1898,1456,0 1592,1585,1959,1827,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3053.jpg 1788,1824,2088,2030,0 2218,1763,2495,1985,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3054.jpg 1914,1830,2214,2040,0 2350,1788,2647,2005,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3055.jpg 1605,1682,1918,1911,0 2034,1624,2330,1824,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3056.jpg 1598,1517,1814,1795,0 1595,1163,1785,1424,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3057.jpg 1540,1108,1747,1392,0 1588,1514,1808,1785,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3058.jpg 1472,1514,1705,1814,0 1421,1092,1630,1382,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3077.jpg 1627,1317,1872,1537,0 1921,1285,2185,1547,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3078.jpg 1650,1295,1892,1537,0 1956,1263,2250,1505,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3079.jpg 1808,1195,2085,1447,0 1472,1237,1740,1456,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3080.jpg 956,1501,1214,1772,0 963,1840,1224,2092,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3081.jpg 869,1472,1134,1763,0 901,1827,1169,2082,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3082.jpg 992,1469,1247,1798,0 1011,1847,1256,2130,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3101.jpg 1788,1676,2063,2169,0 2166,1634,2430,2095,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3102.jpg 1685,1747,1924,2230,0 2043,1727,2324,2169,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3103.jpg 2218,1869,2498,2295,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3104.jpg 1588,1614,2040,1859,0 1592,1221,2005,1517,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3105.jpg 1598,1134,1995,1437,0 1595,1530,2024,1750,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3106.jpg 1734,1640,2150,1885,0 1737,1243,2127,1553,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3156.jpg 2063,1401,2234,1847,0 1963,1588,2156,1821,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3157.jpg 2005,1627,2218,1837,0 2079,1430,2295,1850,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3158.jpg 2053,1456,2269,1869,0 1998,1637,2195,1853,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3159.jpg 1208,1605,1621,1769,0 1369,1672,1630,1856,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3160.jpg 1201,1559,1608,1721,0 1376,1630,1608,1824,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3161.jpg 1250,1601,1663,1763,0 1421,1656,1656,1837,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3234.jpg 1905,1427,2121,1847,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3235.jpg 1966,1563,2192,1988,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3236.jpg 1985,1588,2208,2014,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3237.jpg 1208,1540,1618,1753,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3238.jpg 1266,1450,1682,1669,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3239.jpg 1392,1521,1801,1721,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3258.jpg 1895,1592,2095,1930,0 2163,1547,2366,1892,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3259.jpg 2059,1588,2279,1940,0 1772,1621,1992,1972,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3260.jpg 1821,1737,2037,2082,0 2130,1692,2356,2053,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3261.jpg 1511,1572,1847,1805,0 1495,1301,1830,1521,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3262.jpg 1466,1382,1808,1627,0 1476,1685,1814,1917,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3263.jpg 1505,1482,1866,1724,0 1547,1805,1872,2034,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3283.jpg 1769,1417,2063,1627,0 2159,1395,2440,1611,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3284.jpg 1634,1521,1911,1727,0 2011,1485,2308,1730,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3285.jpg 1801,1653,2105,1863,0 2211,1617,2501,1840,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3286.jpg 1469,1676,1685,1998,0 1440,1282,1663,1579,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3287.jpg 1476,1353,1701,1640,0 1511,1750,1753,2056,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3288.jpg 1537,1901,1782,2214,0 1469,1479,1724,1785,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3307.jpg 1876,1166,2118,1382,0 2137,1140,2395,1382,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3308.jpg 1743,1298,1985,1485,0 2024,1263,2279,1485,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3309.jpg 1947,1501,2153,1692,0 2201,1459,2456,1679,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3310.jpg 1153,1130,1359,1363,0 1159,1427,1379,1627,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3311.jpg 1095,1350,1314,1605,0 1108,1659,1308,1888,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3312.jpg 940,1543,1182,1824,0 956,1876,1188,2156,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3325.jpg 1647,1469,2040,1811,0 2101,1450,2440,1801,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3331.jpg 1747,1850,2063,2295,0 2153,1850,2459,2253,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3332.jpg 1747,1979,2056,2417,0 2150,1943,2447,2382,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3333.jpg 1863,1905,2134,2256,0 2179,1866,2440,2243,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3334.jpg 1559,1582,1918,1869,0 1563,1308,1905,1553,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3335.jpg 1369,1288,1730,1563,0 1372,1585,1740,1898,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG_3336.jpg 1398,1688,1769,1976,0 1392,1392,1737,1653,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/63010453-BBA7-4086-9846-9ED4C8E7AD7E.jpeg 1788,1259,2307,1976,0 1634,1608,2088,1969,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/970470EB-DDD9-459C-8C46-9047699D1474.jpeg 791,1301,1256,1972,0 1879,1347,2391,2179,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_0D53ED41-971B-401B-B04C-924080903F34.jpeg 827,1511,1250,2030,0 863,1934,1153,2172,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_2721BFF9-AE5B-48BE-B4CE-59E4CCEC06A5.jpeg 1166,1234,1708,1537,0 1421,1363,1679,1572,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_32887F6A-593B-417E-B689-09F68C5F4F2D.jpeg 943,1147,1301,1653,0 976,1553,1269,1805,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_3948FDD5-5315-438A-8ADD-05D933E7DB72.jpeg 698,1595,1150,1969,0 914,1714,1324,2156,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_3F3342D0-289B-478A-8F2A-B979D51EB9F2.jpeg 1247,1559,1672,2043,0 1485,1640,1863,2124,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_47312BF4-FF24-4BF5-BB1B-A600630C78E3.jpeg 827,1127,1430,1517,0 1040,1308,1340,1679,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_4B24C0D8-70D0-427B-8291-1F0DF4EE860D.jpeg 911,1847,1347,2169,0 708,1727,1147,2034,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_58DB0CCA-7908-47C7-A04B-569A8F39C344.jpeg 795,1921,1308,2266,0 672,1388,1249,1737,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_93AA0A99-8E49-48D6-B18E-439B24EBD0C5.jpeg 701,976,1230,1317,0 921,1105,1211,1450,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_AAFEDEB5-7B82-44C3-93B7-F545683B6074.jpeg 1321,1444,1763,1872,0 1024,1305,1556,1805,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_D57672C3-1A0A-40DD-8B91-F347134A3611.jpeg 1421,827,1859,1417,0 1195,695,1634,1243,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_D8274D81-D46D-412B-B343-ADDBF9809B45.jpeg 1234,898,1695,1453,0 966,750,1440,1308,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094655.jpg 846,811,1066,1207,0 756,990,952,1187,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094658.jpg 780,1097,1062,1514,0 725,1294,932,1449,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094701.jpg 749,963,1052,1394,0 687,1180,901,1359,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094717.jpg 856,756,1097,1131,0 804,918,1001,1125,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094719.jpg 783,1142,1024,1494,0 704,1266,904,1469,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094722.jpg 1059,894,1217,1245,0 956,1049,1163,1211,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094749.jpg 914,1225,1307,1542,0 670,1252,959,1463,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094751.jpg 718,1256,1090,1535,0 483,1294,770,1487,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094755.jpg 894,987,1283,1325,0 614,1021,911,1269,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094812.jpg 880,883,1225,1194,0 680,831,894,1166,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094814.jpg 835,1238,1169,1504,0 601,1245,852,1463,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094836.jpg 625,894,956,1242,0 494,1104,894,1400,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094839.jpg 621,1369,928,1635,0 480,1483,828,1725,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094841.jpg 946,1449,1276,1669,0 863,1583,1163,1845,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094854.jpg 749,649,1083,983,0 656,876,1004,1163,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101807.jpg 1884,930,2211,1402,0 1839,1148,2121,1398,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound6540570778574095236.jpg 1018,1358,1481,1885,0 1292,1531,1698,2068,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound7065009069317591520.jpg 1311,1111,1662,1551,0 1338,1521,1595,1765,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound8885512624148021822.jpg 1475,1738,1861,2128,0 1611,1801,1972,2291,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/DE470706-4CAA-4768-B975-05B17CB718F6.jpeg 1166,1234,1653,1547,0 1195,1830,1607,2124,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094645.jpg 1348,809,1620,1291,0 1289,1003,1482,1238,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094742.jpg 1402,1011,1759,1361,0 1728,1028,2159,1417,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101754.jpg 2142,1420,2555,2000,0 1991,1703,2404,2040,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101821.jpg 2155,1550,2578,1880,0 2518,1527,3108,1997,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound3620616475444489822.jpg 1701,1705,2246,2588,0 1658,2098,1991,2488,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound38698330921438822291.jpg 1371,1341,1631,1848,0 2206,1401,2518,1988,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound3969208008728176275.jpg 1478,2001,2379,2811,0 1618,1505,2556,2425,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound4134524869831065647.jpg 1618,1488,1988,1895,0 1581,1745,1862,2138,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound4869809331239925728.jpg 1565,1258,2031,1881,0 1922,1282,2736,2048,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5260273269323891401.jpg 1695,1701,2266,2618,0 1598,2165,1945,2515,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/3644859D-4BD8-4E89-BE13-BF5A61A8C06F.jpeg 1501,1624,2133,2524,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/A18E2122-3BBF-406D-BDCD-2A07362B3409.jpeg 840,1459,1159,2053,0 1549,1324,2095,2105,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/AE663BCE-9355-455E-8862-5C72118DC749.jpeg 959,1305,1282,1872,0 1798,1263,2275,1959,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_0712F5E2-88AA-4E3A-8478-1ED4931F0C66.jpeg 820,1543,1395,1914,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_4862AF3A-4A68-4842-AF4E-F7670253F09F.jpeg 833,1856,1291,2121,0 837,1143,1340,1498,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_62E9FFE5-8800-4A0D-8239-C554718E81A5.jpeg 930,1821,1440,2111,0 920,1195,1417,1543,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_7F6A37B6-7887-4E71-B4C9-83571AFA44CB.jpeg 349,1911,1030,2288,0 201,956,991,1472,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_8471A4E2-5879-4B88-BEF9-839FF2D9BCD6.jpeg 991,1566,1478,1859,0 978,714,1498,1047,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_A424EF11-C833-4066-9119-56A273F15ADA.jpeg 766,1724,1237,1972,0 717,1398,1237,1705,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_AABBDDD2-4727-4185-9C02-45F8102FECAA.jpeg 1091,1634,1588,1979,0 1056,901,1543,1282,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_C2B12B1E-2DEB-4F2C-B2CE-5E58E93FFC7C.jpeg 398,1876,924,2150,0 227,1337,882,1692,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_C33FCA6D-7A9F-4633-BCCD-8AD533673C24.jpeg 1204,1617,1646,1869,0 1217,911,1678,1130,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_C4BD1434-E519-4751-98C7-589ADE3C8D37.jpeg 972,1579,1391,1898,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_D0946A3A-E02D-4BE5-8685-0CA709375CE6.jpeg 898,1166,1407,1408,0 843,1859,1307,2085,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_E32C204A-272D-4C21-9584-D2F0DD1B213E.jpeg 717,2079,1230,2334,0 685,1456,1214,1801,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_F49E2517-5092-43E0-A282-1FF992140BEB.jpeg 991,1821,1491,2176,0 953,1347,1475,1705,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_FC18061D-B350-4276-825A-BB0DAD60A513.jpeg 930,1430,1427,1808,0 959,853,1427,1217,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094422.jpg 666,1221,917,1552,0 1148,1176,1459,1556,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094424.jpg 717,1145,1017,1542,0 1269,1087,1566,1494,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094440.jpg 517,880,766,1256,0 966,845,1235,1183,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094441.jpg 828,863,1055,1200,0 1259,845,1517,1166,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094558.jpg 821,1038,1041,1390,0 1269,997,1486,1356,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094600.jpg 873,1014,1135,1400,0 1324,983,1541,1352,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094602.jpg 707,1211,893,1528,0 986,1176,1283,1500,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094618.jpg 941,959,1128,1297,0 1210,959,1383,1300,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094619.jpg 679,869,890,1249,0 1062,897,1266,1245,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094624.jpg 741,1280,945,1559,0 1048,1280,1221,1563,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094856.jpg 693,1128,979,1480,0 717,983,1066,1318,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104094859.jpg 493,1142,814,1487,0 548,990,941,1314,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101710.jpg 1284,1966,1602,2289,0 1757,1948,2066,2366,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101711.jpg 1043,1857,1402,2261,0 1593,1766,1971,2248,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101717.jpg 1675,1311,1975,1770,0 1989,1316,2302,1766,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101718.jpg 1484,1611,1821,2066,0 1816,1570,2130,2007,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101732.jpg 1121,1470,1484,1998,0 1716,1461,2084,1975,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101734.jpg 1107,1511,1411,2025,0 1834,1525,2184,2066,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101743.jpg 1189,1139,1552,1761,0 1816,1143,2171,1675,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101744.jpg 1484,1234,1857,1825,0 2011,1170,2307,1698,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101759.jpg 1430,1625,1861,2189,0 1366,1889,1693,2280,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101808.jpg 1848,966,2189,1502,0 1911,1170,2139,1493,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101824.jpg 1548,1839,1875,2120,0 1830,1820,2293,2230,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101826.jpg 1457,1793,1984,2257,0 1175,1848,1493,2175,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101832.jpg 2080,1152,2398,1652,0 1934,1211,2175,1493,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101834.jpg 2234,1275,2566,1670,0 2030,1343,2311,1570,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101846.jpg 1080,1889,1625,2370,0 1202,1675,1802,2157,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101847.jpg 898,1616,1475,2184,0 1043,1370,1643,1916,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101854.jpg 2175,1407,2598,1802,0 2184,1639,2511,2107,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104101855.jpg 1921,1534,2321,1916,0 1880,1734,2257,2175,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104302.jpg 1225,1193,1680,1857,0 2193,1166,2693,1766,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104308.jpg 1811,1130,2325,1780,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104315.jpg 1961,1561,2352,2011,0 1061,1557,1380,2093,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104322.jpg 1830,1302,2102,1780,0 1443,1370,1780,1961,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104328.jpg.jpg 1466,1648,1893,2143,0 1448,1875,1716,2152,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104333.jpg.jpg 1702,1448,2075,1930,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104352.jpg.jpg 1375,1339,1848,1748,0 1043,1366,1416,1716,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104401.jpg.jpg 1580,1911,2143,2366,0 1566,2152,2084,2611,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_IMG20210104104408.jpg.jpg 1607,1516,1975,1961,0 1589,1775,1871,2280,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound1521854117431789697.jpg 1025,1408,1488,1698,0 1031,1951,1478,2218,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound1907356952853455159.jpg 1081,1155,1548,1555,0 1115,1778,1568,2195,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound2337952354783894742.jpg 1181,1471,1618,1788,0 1215,1948,1571,2285,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound2403794341395216542.jpg 1118,1408,1605,1705,0 1121,1915,1588,2171,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound3819021261923530237.jpg 1001,1528,1448,1841,0 1215,1711,1405,1981,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound3985866278518988327.jpg 1135,1328,1601,1678,0 1341,1518,1561,1765,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound4078988634463680250.jpg 1058,1325,1485,1648,0 1271,1501,1468,1735,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound4184415368892513075.jpg 685,1488,1145,1945,0 1018,1541,1468,2055,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound461892016995634048.jpg 1268,1445,1681,1745,0 1268,1911,1641,2221,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound4676265903742885152.jpg 1018,1605,1458,1975,0 1055,990,1498,1335,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound4974834427912030656.jpg 878,1385,1391,1731,0 878,924,1411,1208,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound507224650729929344.jpg 1058,1328,1505,1638,0 1268,1488,1455,1715,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound5298231503064136025.jpg 718,1768,1225,2091,0 745,1215,1258,1515,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound5487050275452230191.jpg 1428,1858,1811,2301,0 1418,2088,1695,2488,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound5525993821318090544.jpg 1315,1125,1708,1645,0 1065,1038,1478,1518,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound5811163186758605297.jpg 1018,1561,1451,1815,0 1005,1081,1485,1398,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound617025271081282413.jpg 938,1761,1411,2108,0 901,1038,1371,1398,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound6350718536458584673.jpg 1018,1661,1491,2021,0 965,924,1431,1301,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound6680973642476060697.jpg 835,1341,1331,1691,0 1101,1525,1315,1755,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound6899039822076223267.jpg 868,1451,1351,1771,0 1105,1658,1311,1905,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound7921618970646434275.jpg 1068,1495,1535,1798,0 1058,1995,1488,2215,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound8038758297586134143.jpg 1088,2138,1521,2525,0 1301,2201,1691,2681,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound8755787221413585276.jpg 828,1278,1291,1508,0 818,1881,1221,2108,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound9031916983868787700.jpg 1108,1515,1448,1971,0 1051,1938,1401,2191,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_inbound98991597957202076.jpg 1078,1941,1515,2351,0 1258,2058,1651,2555,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B0E6AB66-B47C-4355-B231-17AF49A77CE7.jpeg 1804,1211,2417,1734,0 1714,1495,2246,1995,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B200D132-5F77-4644-9254-C59A2F7690A6.jpeg 1217,1579,1662,1911,0 1237,1008,1691,1305,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/B47FFC51-0DEF-4895-BE02-1BB8DB1A72261.jpeg 1420,1769,1698,2379,0 2511,1747,2840,2376,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C29F407A-EA44-4F4B-9E76-A0ABA9F263C2.jpeg 1182,688,1595,1179,0 1169,1021,1495,1521,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C2E56B60-6B0D-470E-82C9-35FF7856F07A.jpeg 966,1095,1343,1747,0 1801,1017,2430,1905,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/C5E1EE31-2D96-41B2-AEBC-C9621D9C234E.jpeg 1149,1369,1585,1624,0 1130,827,1562,1079,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/CD884F07-499B-4C6E-90E3-CFF41955F5D8.jpeg 1059,930,1437,1534,0 2243,782,2814,1688,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/D0141A89-3FC6-4A0D-AD7D-B8B34B88766F.jpeg 827,743,1259,1327,0 882,1253,1204,1640,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/D5B1D23C-0DAD-45B3-88EF-F87ED7454B97.jpeg 1146,1847,1704,2440,0 2156,1821,2649,2411,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/D9B9CFA8-30CE-4137-9739-CBD49D3368F4.jpeg 824,1372,1217,2017,0 2207,1379,2720,2066,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/DA6606CD-1761-4700-9F01-4393FF1A4AC9.jpeg 2014,1395,2643,1927,0 1914,1669,2501,2237,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/DBA6703F-5895-4B8B-A87E-8C3EB595C855.jpeg 1424,1266,2072,1892,0 1395,1285,1659,1672,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/DE470706-4CAA-4768-B975-05B17CB718F61.jpeg 1178,1247,1653,1566,0 1195,1847,1620,2108,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E322EC1A-3578-42D9-A216-9D016661FDE1.jpeg 1020,1827,1443,2453,0 1688,1872,2220,2669,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E4F4102E-AAF4-4E19-A526-C10806A984E6.jpeg 1117,1537,1601,2172,0 2233,1434,2749,2117,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E6A44781-CB2B-4B6D-BA62-58C9DB9609B6.jpeg 1601,1992,2330,2498,0 1217,2085,1720,2405,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/E8D83C7B-C70A-4A60-9BAC-0D2793C5BC82.jpeg 1249,1550,2059,2282,0 1127,1866,1888,2588,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/EED8D5BA-2D5B-4F4A-828B-7CC30F3785E3.jpeg 1559,1392,1907,1988,0 2501,1340,2875,1937,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/F4E0F0FD-5776-41E3-82FA-DAD9F26263FF.jpeg 2014,1608,2588,2250,0 2004,1888,2307,2276,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/F97435C7-1CCB-496A-8ABA-33FDC235D6B6.jpeg 1501,1424,2001,2001,0 2333,1285,2827,1882,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/FAEDBB88-40F6-4465-8F4C-4A6E6F565B111.jpeg 1540,1137,1995,1421,0 1475,1647,1866,1914,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/half.jpg 1531,1041,1889,1354,0 1298,1085,1592,1278,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094232.jpg 1228,765,1411,1126,0 1857,819,2078,1206,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094235.jpg 1300,628,1489,1022,0 1931,715,2163,1117,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094242.jpg 552,1014,738,1373,0 1076,1031,1266,1387,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094246.jpg 455,925,638,1273,0 897,1028,1145,1418,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094251.jpg 1526,589,1781,1004,0 2120,611,2322,1035,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094254.jpg 1613,493,1855,926,0 2122,528,2331,922,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094259.jpg 1314,418,1466,759,0 876,366,1066,690,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094300.jpg 876,583,1052,914,0 1304,642,1473,990,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094320.jpg 1137,746,1359,1198,0 1737,839,2002,1311,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094325.jpg 521,873,717,1290,0 1148,928,1359,1338,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094330.jpg 1426,513,1665,956,0 2076,598,2274,1037,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094334.jpg 710,528,941,925,0 1290,587,1490,1025,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094341.jpg 1020,791,1342,1196,0 1598,874,1924,1285,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094344.jpg 1178,972,1455,1356,0 1668,1063,2011,1463,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094345.jpg 1042,980,1344,1361,0 1546,1032,1868,1448,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094348.jpg 607,1163,883,1542,0 1183,1204,1445,1542,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094350.jpg 673,1276,917,1642,0 1179,1311,1473,1673,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094354.jpg 828,1383,1052,1745,0 1290,1431,1579,1790,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094355.jpg 1281,841,1552,1243,0 1811,869,2072,1250,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094357.jpg 1350,826,1628,1304,0 1922,856,2172,1224,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094359.jpg 1522,674,1802,1109,0 2092,730,2331,1096,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094402.jpg 948,956,1145,1276,0 1345,938,1552,1266,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094404.jpg 776,945,976,1294,0 1169,969,1369,1273,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094408.jpg 1055,1087,1276,1438,0 1452,1131,1655,1442,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094416.jpg 1150,659,1515,1085,0 1794,706,2159,1124,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094418.jpg 1039,617,1381,1017,0 1698,659,2076,1119,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094430.jpg 1324,774,1637,1200,0 1939,676,2274,1098,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094431.jpg 1157,780,1483,1243,0 1787,717,2137,1132,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094435.jpg 1072,667,1422,1143,0 1752,622,2142,1115,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094548.jpg 1181,635,1435,1039,0 1802,637,2059,1061,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094551.jpg 989,656,1235,1059,0 1592,687,1861,1130,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094553.jpg 1278,861,1507,1211,0 1776,880,1989,1224,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094608.jpg 1352,785,1607,1150,0 1770,700,2018,1085,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094611.jpg 1526,952,1774,1293,0 1837,924,2105,1250,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094614.jpg 1713,732,1926,1113,0 1972,730,2202,1093,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094647.jpg 1996,732,2194,1178,0 1865,902,2072,1135,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094651.jpg 1931,1015,2200,1389,0 1863,1141,2070,1400,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094705.jpg 1713,746,1937,1128,0 1685,882,1872,1091,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094709.jpg 1748,672,1955,1032,0 1713,819,1933,1022,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094713.jpg 1535,585,1735,996,0 1461,769,1670,972,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094740.jpg 1048,987,1418,1328,0 1368,996,1835,1396,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094759.jpg 1744,667,2011,928,0 1933,654,2207,926,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094802.jpg 1359,706,1737,1015,0 1094,739,1418,1011,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094812.jpg 879,887,1200,1176,0 659,825,938,1145,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094814.jpg 845,1238,1148,1487,0 579,1231,852,1442,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094826.jpg 1696,882,2192,1335,0 1772,626,2294,1046,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094829.jpg 1348,685,1807,1100,0 1261,887,1724,1289,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094831.jpg 1352,517,1887,1015,0 1252,787,1761,1235,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094846.jpg 1502,615,1870,989,0 1452,824,1805,1176,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094849.jpg 1452,1035,1828,1400,0 1418,1224,1748,1606,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104094850.jpg 1620,1154,1889,1413,0 1652,956,1955,1248,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101452.jpg 2142,1713,2478,2323,0 1352,1687,1698,2213,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101455.jpg 1962,2067,2235,2587,0 2698,2073,2992,2607,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101459.jpg 1166,1448,1380,1880,0 1730,1334,1971,1807,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101504.jpg 2185,1800,2495,2333,0 2835,1613,3085,2117,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101508.jpg 2545,1547,2872,2057,0 2845,1453,3118,1920,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101513.jpg 1702,1380,1957,1839,0 1248,1434,1484,1916,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101515.jpg 1602,1216,1875,1675,0 2075,1152,2289,1598,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101533.jpg 1422,1283,1808,1820,0 2365,1317,2792,1903,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101539.jpg 1366,1548,1716,2034,0 1971,1434,2307,1925,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101545.jpg 1815,1570,2255,2140,0 2495,1433,2828,1920,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101549.jpg 2175,1493,2505,2043,0 2695,1377,2962,1870,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101551.jpg 1707,970,2071,1498,0 2280,939,2561,1439,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101554.jpg 1471,1293,1852,1793,0 1966,1234,2316,1770,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101706.jpg 1822,1663,2165,2030,0 2338,1600,2775,2117,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101707.jpg 1768,1447,2125,1870,0 2392,1420,2802,1923,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101714.jpg 1888,1663,2245,2097,0 2332,1600,2645,2010,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101715.jpg 2132,1620,2478,2043,0 2552,1500,2892,1897,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101726.jpg 1498,977,1855,1590,0 2795,897,3162,1537,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101728.jpg 1872,1203,2242,1817,0 2958,1103,3248,1660,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101738.jpg 2325,1300,2708,1847,0 2818,1270,3088,1753,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101739.jpg 2012,1050,2368,1723,0 2695,1080,3022,1620,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101740.jpg 2125,1170,2545,1840,0 2765,1073,3085,1673,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101756.jpg 2458,1130,2845,1770,0 2375,1427,2702,1783,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101800.jpg 1298,1743,1761,2289,0 1280,2048,1561,2298,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101803.jpg 2488,1293,2928,1877,0 2442,1587,2808,1940,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101804.jpg 2698,1333,3142,1880,0 2662,1587,3035,1933,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101819.jpg 2008,1373,2602,1877,0 1605,1337,2092,1770,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101820.jpg 1835,1577,2252,1910,0 2192,1570,2808,2117,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101829.jpg 1942,1583,2325,1887,0 2278,1497,2725,1960,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101830.jpg 2062,1780,2365,2030,0 2332,1687,2678,2107,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101832.jpg 2084,1216,2443,1530,0 1943,1207,2157,1520,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101834.jpg 2034,1339,2311,1584,0 2234,1284,2561,1607,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101840.jpg 2112,1107,2672,1620,0 2082,1417,2592,1930,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101841.jpg 2512,1353,3072,1887,0 2445,1660,2992,2167,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101843.jpg 2218,1353,2782,1793,0 2178,1557,2652,2070,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101850.jpg 2738,1470,3115,2023,0 2765,1207,3185,1683,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104101851.jpg 2802,1667,3118,2220,0 2802,1443,3225,1847,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104225.jpg 1862,1597,2128,2097,0 2765,1600,3062,2143,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104226.jpg 2002,1717,2282,2200,0 2845,1730,3098,2267,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104229.jpg 925,1493,1171,1966,0 1780,1552,2057,2057,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104232.jpg 2232,1390,2722,2147,0 3008,1287,3335,1867,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104235.jpg 1702,1202,1966,1711,0 2075,1216,2321,1625,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104241.jpg 1768,1483,2092,1933,0 2582,1510,2938,2017,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104244.jpg 1239,1611,1543,2084,0 1902,1570,2193,2016,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104251.jpg 2258,1243,2502,1790,0 2572,1113,2775,1563,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104255.jpg 1530,1607,1843,2139,0 1984,1570,2202,1998,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104300.jpg 1495,1070,1905,1680,0 2765,1077,3305,1747,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104305.jpg 2105,687,2605,1373,0 2798,713,3258,1310,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104312.jpg 1612,1067,1932,1607,0 2855,1093,3198,1660,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104318.jpg 2138,770,2685,1500,0 3015,817,3322,1363,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104326.jpg 2172,1627,2565,2140,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104331.jpg.jpg 2398,1270,2902,1847,0 2378,1537,2768,1930,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104344.jpg.jpg 1838,1760,2242,2090,0 2252,1750,2818,2190,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104350.jpg.jpg 2488,1060,3042,1573,0 2132,1103,2535,1500,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104352.jpg.jpg 1371,1352,1816,1789,0 1048,1393,1393,1670,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104359.jpg.jpg 2128,1657,2758,2173,0 2075,1943,2612,2387,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/IMG20210104104405.jpg.jpg 2145,1483,2602,2110,0 2162,1163,2645,1753,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound1318063497898199129.jpg 1151,1771,1805,2335,0 798,1765,1228,2211,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound1365058389925452066.jpg 1541,1418,2432,2248,0 1381,1911,2266,2701,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound1425550206844929028.jpg 1191,1831,1635,2041,0 1175,1271,1678,1458,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound1572265049863715200.jpg 1245,1331,1718,1628,0 1241,1891,1705,2205,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound1626678488062030901.jpg 1648,2101,2008,2598,0 2172,2051,2666,2611,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound1849776148256907665.jpg 2339,1648,3072,2355,0 1775,1671,2342,2201,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound18808173363875124671.jpg 1821,1465,2186,1955,0 2629,1515,3022,2041,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound2049612745023607704.jpg 881,1501,1481,2215,0 728,1905,1395,2548,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound2124485467055359090.jpg 1601,1325,2112,2108,0 835,1345,1331,1968,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound2139939242959507437.jpg 2296,1295,2742,2168,0 2092,1665,2496,2071,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound2872812825064579108.jpg 1148,1795,1491,2405,0 1751,1831,2212,2591,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound30788260174771509331.jpg 1188,1505,1675,1761,0 1155,2065,1631,2308,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound4070204276858665102.jpg 1935,1571,2436,2328,0 1871,1885,2216,2245,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound4300148129404384925.jpg 1678,1151,2152,2018,0 765,1121,1238,1791,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound4390428884158114329.jpg 1918,1661,2346,2265,0 1255,1765,1611,2331,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound4482387724152338743.jpg 1535,1685,1905,2185,0 2339,1751,2742,2281,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound450913267578034627.jpg 1041,1628,1581,1888,0 995,2105,1445,2381,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5281966247673948797.jpg 1908,1931,2229,2465,0 2476,1835,2972,2498,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5345050184425367344.jpg 1015,1398,1351,2011,0 1588,1411,2031,2161,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound540804900925945222.jpg 1451,1781,1795,2205,0 2142,1701,2509,2235,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5550772591018864650.jpg 1065,1325,1515,1505,0 1048,1908,1508,2145,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5634418835150672973.jpg 1308,1445,1708,1881,0 1285,1825,1625,2138,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5655765070004938376.jpg 1391,897,1741,1308,0 1378,1278,1651,1625,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound5876558278417773661.jpg 1658,1091,2059,1695,0 2279,1155,2769,1968,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6198624173710474783.jpg 1418,1085,1911,1935,0 471,1028,971,1711,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6218536515141312093.jpg 905,1511,1355,1788,0 888,2001,1328,2275,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound62185365151413120931.jpg 905,1508,1375,1801,0 895,1991,1328,2278,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6302766900106008240.jpg 921,1255,1245,1885,0 1525,1265,1941,2028,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6311391217854812908.jpg 1255,1675,1611,2191,0 1925,1618,2362,2248,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6421556115508675101.jpg 1241,1375,1735,1678,0 1185,1908,1621,2201,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound64215561155086751011.jpg 1248,1405,1751,1685,0 1191,1915,1611,2218,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6694492679474856747.jpg 1195,1465,1681,2048,0 2052,1405,2629,2171,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6703790586887612340.jpg 971,1251,1348,1908,0 1745,1215,2256,2028,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound6853553894157440828.jpg 1071,1361,1565,2005,0 1985,1358,2616,2148,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound70903046526022969881.jpg 1075,1398,1375,1915,0 1868,1481,2206,2065,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound712000467524435604.jpg 1118,1318,1465,1915,0 1788,1301,2242,2031,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound7272408967777488695.jpg 1281,1481,1801,2141,0 1755,1578,2649,2371,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound7804053692420947962.jpg 2156,1508,2632,2275,0 2102,1811,2416,2178,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound80112585746982563271.jpg 1165,1818,1641,2081,0 1125,2221,1551,2508,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound8021789414032664801.jpg 951,1998,1428,2315,0 1001,1368,1455,1658,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound8365885909296341594.jpg 1258,1841,1675,2498,0 2226,1875,2779,2658,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound836904767903629666.jpg 1255,1865,2126,2605,0 1098,2171,1971,2918,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound880638163537259027.jpg 2045,1701,2459,2095,0 2216,1388,2606,2191,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound8807100137218677501.jpg 1318,940,2229,1835,0 1035,1428,1995,2241,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound8853913346640859726.jpg 1048,1505,1695,2165,0 688,1421,1338,1985,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound90111582753031438051.jpg 1251,1938,1655,2435,0 2008,1968,2396,2488,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound9054367192785235964.jpg 1818,1761,2196,2265,0 2569,1721,3039,2301,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/inbound9118391484432575177.jpg 1635,1625,2492,2328,0 1431,2008,2322,2805,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/134126E6-58C1-4CFB-B8D6-B7537E5C146B.jpeg 2150,1337,2485,1685,0 2508,1611,2772,1924,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/21833635-5A55-49B3-AD8D-C3CD3B3B35B4.jpeg 1263,2179,1585,2488,0 1576,2237,1988,2647,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/35987888-722A-4A43-84E2-4B25FD9F3FE3.jpeg 1943,1643,2556,2340,0 959,1785,1372,2424,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/3829607B-3D95-4086-B499-8F7AC02555C4.jpeg 1672,2376,2147,2763,0 2263,2330,2688,2721,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/63778851-97D2-4360-B899-3FEDDFA240ED.jpeg 1488,1676,2101,1924,0 1782,1740,2301,2024,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/703861AB-E82E-4A0B-A8A3-0CC1A9E566CB.jpeg 2098,1727,2653,2237,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/78620845-ABA7-4159-8B36-F5B33CBE7BED.jpeg 1098,1108,1334,1514,0 1208,966,1476,1321,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/A5465AED-42C5-4086-B957-34FEDB8B9B52.jpeg 1414,1527,1788,2114,0 2188,1450,2763,2059,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/A75838C0-F074-4B58-9BE0-CA1F35DF4CD4.jpeg 1898,1269,2537,1785,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/A7596D6A-3971-4F6C-A316-7C92A2A1B654.jpeg 885,1421,1066,1856,0 963,1472,1185,1717,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/A78011A7-6543-497F-9004-BCF89CA99599.jpeg 1285,1450,1772,2056,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/A958BC41-D764-42CD-AE50-2BED2EA0710D.jpeg 1988,1547,2314,2192,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/A9E106A0-CCA1-4088-9E32-A91FD08D328E.jpeg 1305,1627,1976,1959,0 1624,1734,2085,2182,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/AD5FEC36-1B25-48CE-AFE6-A22F3EF9608B.jpeg 1788,1466,2305,2353,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/al_inbound5655164523241060199.jpg 1075,1435,1682,1898,0 1178,2271,1662,2565,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_00301CAD-C7F6-44D8-AEC7-6D716CBC05F4.jpeg 550,1027,937,1463,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_01304A55-2DEC-4B10-AFCE-DA21160C43F6.jpeg 1356,1488,1840,1782,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_01CE951E-5EC0-4920-AB08-312F9A643FA5.jpeg 1524,1495,1759,1717,0 1505,1701,1730,1876,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_047EA556-EB72-4855-9B09-5A752FAB2EAB.jpeg 1598,1266,1856,1608,0 1605,1843,1834,2095,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_05D777AC-AFD3-4DA4-9621-2BEE3A0F4FB5.jpeg 1040,979,1605,1411,0 1082,1798,1572,2072,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_071900B4-A8B2-46E6-A65B-31BC31CE4F13.jpeg 534,1208,898,1472,0 856,1050,1140,1272,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_0824CFB5-259C-412D-BE9A-0A05694D80D2.jpeg 740,1337,1179,1727,0 753,1666,1205,1982,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_0DF23BA9-36DB-4F99-881C-C988909A383C.jpeg 1311,808,1598,1134,0 1392,1434,1640,1717,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_11A774F5-9A44-4E45-8EB9-A7B181981F93.jpeg 869,1005,1163,1250,0 1127,824,1376,1017,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_12022162-4B65-4B16-AABA-76AFC3E2E2C8.jpeg 718,947,1285,1359,0 747,1663,1279,2001,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_15FA33A1-7BBA-4C29-BEB8-A27D36CD8BDA.jpeg 1585,1153,1850,1466,0 1572,1572,1795,1811,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_1827A91B-C77C-4BF3-B75B-A98D1E3FCE93.jpeg 830,1066,1230,1588,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_18FC690D-A8BD-4BA1-9368-5861BF9E6182.jpeg 1372,1488,1650,1782,0 1430,1976,1669,2237,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_1B9B57F0-4602-4037-AD98-3D8358739AD0.jpeg 750,895,1230,1459,0 827,1856,1282,2166,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_1D5551BF-AE86-47CA-9131-076CEE68D54D.jpeg 1118,1111,1385,1437,0 808,1421,1156,1708,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_2572A775-1B9C-4426-9EE9-09962839FB20.jpeg 1072,1217,1559,1663,0 1140,2124,1605,2498,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_2C972970-3321-4911-A5D2-6A60DBBD12C7.jpeg 992,937,1327,1179,0 1279,801,1521,1017,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_302538CC-3FA9-4BB1-BF0B-159B660C4E20.jpeg 856,879,1269,1334,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_307B4B42-4F88-4218-861D-C4E0781915B0.jpeg 795,2030,1124,2311,0 1056,1779,1321,2063,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_3643623B-DE1A-40FC-B819-91AD8E673DA2.jpeg 779,1211,1079,1456,0 1098,953,1353,1217,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_37F4E6AB-69BA-4360-9708-F5316CE6F294.jpeg 966,1369,1595,1617,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_3A1854D5-85FD-4CCD-B56F-5EFC05DB4CCB.jpeg 1105,963,1592,1305,0 1072,1985,1550,2408,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_4179FBF1-5B5C-41C2-82F9-9210926F44E6.jpeg 598,1595,1192,2034,0 740,2269,1163,2466,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_447EFE4F-1013-4110-A11E-77F58B7A5A35.jpeg 911,982,1288,1417,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_471D0576-CFEC-4411-A02F-01E11CCF3EA3.jpeg 785,1098,1272,1456,0 805,1443,1266,1788,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_4D44A10A-7243-45EE-BD7F-FA6435ECD287.jpeg 640,1369,1069,1827,0 743,2050,1124,2308,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_4F9AEE88-C6B5-4C07-92B3-9CA34EA8D232.jpeg 901,1611,1398,1872,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_507E1CE9-5EF8-4FDA-8692-4FB258FD0AAD.jpeg 811,1185,1308,1537,0 837,1517,1337,1882,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_53E8B985-B3ED-4B7A-8A96-A496E6B2B98F.jpeg 972,1614,1382,1969,0 1018,2150,1363,2405,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_547433B9-716D-4BBC-AD09-8549AAC626E8.jpeg 1595,1495,1830,1779,0 1630,1759,1850,1985,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_54B579BE-EEB9-40ED-99D0-A7EA9F948D1E.jpeg 1082,1047,1363,1340,0 792,1314,1114,1588,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_593543CB-3A01-4544-A4AA-AB210D8C49D0.jpeg 866,1066,1282,1453,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_5E53A037-627D-4877-B8AE-2577BF667216.jpeg 1434,1388,1688,1676,0 1476,1821,1701,2047,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_66069CF4-D98F-45D2-A8BF-CD03E671F7F6.jpeg 1188,1043,1624,1459,0 1214,1801,1663,2163,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_6D769DD9-6A8C-4395-89E0-3D88B6451AEC.jpeg 869,1230,1224,1656,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_6F88A0C8-3A78-4157-86EE-46C71562018B.jpeg 576,1005,1024,1443,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_6F8922EA-24A5-4AC5-9E33-7DAFC8E31098.jpeg 563,1314,998,1714,0 601,1688,1014,1840,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_7318AE0A-3614-481F-95A7-26C8758280A0.jpeg 927,1098,1366,1376,0 956,1347,1334,1595,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_7AD516A3-85F5-44B3-9622-E820C72D6A73.jpeg 998,1895,1276,2159,0 1234,1734,1482,1959,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_7F86568A-4918-47F2-BD2F-8B26C7A6E6D1.jpeg 588,1176,1011,1601,0 627,1559,1030,1743,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_81FE0409-A9B7-47DA-9DD8-F99101E0730F.jpeg 840,917,1398,1308,0 914,1611,1414,1940,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_8238130C-D7DE-407D-A1E8-DE549AB9CA82.jpeg 801,1495,1266,1850,0 863,1785,1272,2108,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_844AD000-E9CB-455B-8DAA-3053931C63C9.jpeg 772,830,1192,1311,0
+/content/drive/My Drive/Colab Notebooks/Car_license_plate_prj/hand_img/train/all_85336BEF-FD09-4BEA-A85E-68A8B2B93B0E.jpeg 659,1530,1130,1914,0 721,1892,1143,2176,0
