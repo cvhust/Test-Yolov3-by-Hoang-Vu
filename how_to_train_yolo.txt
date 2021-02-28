@@ -1,0 +1,17 @@
+0. Cài đặt các thư viện theo requirement.txt
+1. Chuẩn bị dataset (annot và img trong cùng 1 folder).
+folder "hand_img" chứa 2 folder "train" và "test"
+2. Truy cập file XML_to_YOLOv3.py trong folder tools:
+- sửa các địa chỉ: + data_dir = '/hand_img/' # địa chỉ đến folder chứa train và test
+		   + Dataset_name_path = "model_data/hand_names.txt"
+		   + Dataset_train = "model_data/hand_train.txt"
+		   + Dataset_test = "model_data/hand_test.txt"
+- Chạy file XML_to_YOLOv3.py
+3. truy cập file configs.py trong folder yolov3:
+- sửa: + YOLO_TYPE
+       + TRAIN_ANNOT_PATH = "./model_data/hand_train.txt"
+       + TEST_ANNOT_PATH = "./model_data/hand_test.txt"
+       + TRAIN_CLASSES = "./model_data/hand_names.txt"
+4. truy cập file utils.py trong folder yolov3
+- tại def detect_image sửa score_threshold, iou_threshoul
+5. chạy file train.py
